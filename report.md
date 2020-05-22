@@ -8,8 +8,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [Неверная длинна ключа](https://github.com/AlexSMGr54/netology-java-homework-1.1/issues/1)
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [Некорректная обработка валидного ключа](https://github.com/AlexSMGr54/netology-java-homework-1.1/issues/2)
+* [Некорректная обработка невалидного ключа](https://github.com/AlexSMGr54/netology-java-homework-1.1/issues/3)
 
 ## Описание процесса тестирования
 
